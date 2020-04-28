@@ -1,7 +1,11 @@
 Playtest for [King of Fighters Allstar]
+
 Game Publisher: Netmarble,SNK
+
 Game Rating: 4.5
+
 Game Title Website:https://kofallstar.netmarble.com/en/
+
 Question: During your playtesting where the rules of the game understandable? If not, what was not clear.
 
 Yes, the rules in the beinning of the game were understandable. 
