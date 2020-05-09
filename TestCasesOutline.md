@@ -25,9 +25,9 @@
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | | |			
+| 1 |hello |matt |bye |			
 | 2 | | | |			
-| 3 | | | |			
+| 3 | | | |	
 | 4 | | | |			
 | 5 | | | |			
 | 6 | | | |			
