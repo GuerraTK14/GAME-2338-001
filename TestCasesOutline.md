@@ -43,7 +43,7 @@
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | Matthew plays a version on the Playstation 4|The test was conducted by me Matthew| I am Matthew Guerra playing the game on Playstation to see 8 test issues I have found from April 20 to May 8 |			
+| 1 |Me (Justus) playing on PC i've listed as mentioned 10 bugs/issues that i've found from April 1st-May 1st |The tests conducted were by me and my Steam pals |Most bugs we've encountered were just silly and hardly game breaking with the exception of the solo duplication glitch? As only a few made me infuriated. There were also other bugs/issues that were encountered as well that i haven't listed above. |			
+| 2 | I am Matthew Guerra playing the game on Playstation to see 8 test issues I have found from April 20 to May 8|The test was conducted by me Matthew |Having to see if the game could be entertaining for all players pro or noob? The game has many issues with accomplishing a quest and making sure that a new person to video games could pass the quest with no problems.|		
 | 3 | | | |			
 
