@@ -37,5 +37,5 @@
 
 
 # General Notes/Overall Status
-*At first it was interesting to know that the game can still be fun with different styles of control commands on different consoles. That this is awesome in a lot of ways and can’t wait for the second Dying light to be released and see if they kept the same commands or changed them. Aslo, we had fun to know that we prefer different styles of commands and why there are many for players to choose their own way of playing. 
+At first it was interesting to know that the game can still be fun with different styles of control commands on different consoles. That this is awesome in a lot of ways and can’t wait for the second Dying light to be released and see if they kept the same commands or changed them. Aslo, we had fun to know that we prefer different styles of commands and why there are many for players to choose their own way of playing. 
         
