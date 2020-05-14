@@ -7,50 +7,55 @@ Playing Dying Light on three different consoles Playstation 4, PC, and Xbox One 
 
 ## Environment/User Community
 
-Identify user community and where testing will be performed
+Playing on Playstation 4, PC, and Xbox 
 
 ## Test Objectives
 
-State objectives to be accomplished by testing
+Matthew: Playing both normal and hard mode to see the different experience
+Justus: Testing the multiplayer mode and checking for bugs that could happen.
+Angel: Checking for problems and to see if the game has the same problems in all three consoles.
+
 
 ## Acceptance Criteria
 
-Estimated number of defect or internal test acceptance criteria
+We want to find 8 or more bugs before letting anyone know that the game is okay to play
 
 ## References
 
-* List any reference documents
+* Having Status Reports, Test Plan, Test Cases and Overall game play talk details
 
 # Section 2: Plan
 ## Test Description
-
-Briefly describe what is being tested and any inputs needed for testing
+Testing Dying light game for bugs on three different consoles and checking the fun factor. Testing the three different levels of the game and the characters to check for bugs in weapons, enemies and environments
 
 ## Test Team
 
-Who is on the team and what is their role/assignment
+* Justus 
+* Angel
+* Matthew
+
 
 ## Milestones
 
-* Testing Locations, events, test phases and dates of testing
+* Communicating on discord from April to May
+
 
 ## Budgets
 
-Funds allocated to testing by task
+No funds for this project testing.
 
 ## Testing
 ### Requirements
 
-Resource requirements, equipment, software/hardware, tester with special skill set
+Playstation 4, PC and Xbox One
 
 ### Testing Materials/Test Tools
 
-Documentation you will use or produce or testing tools used
+Having Test Plan, Test cases
 
 ### Test Training
 
-Personnel training, types of training/training staff - could include acceptance testing or
-playtesting
+Playing the game for an hour and collect some data 
 
 # Section 3: Specifications and Evaluations
 
@@ -58,30 +63,27 @@ playtesting
 
 ### Business Rules/Functions
 
-* List any business requirements (list)
+* Must be able to fully be on top of their work and show a lot of progress of what they encounter.
 
 ### Software/Game Functions
 
-* List any software requirements (list)
+* Playing the game and having the sounds system working alright.
 
 ### Test/Function Relationships
 
-Match individual tests or test suites to requirements (this is usually a table)
-Beginning stages of developing your test suites
+Having to talk about how the game goes and see if the team has found bug issues and ask if they too have incounte them.
 
 ### Test Progression
-Describe how progression is made from one test to another
+Describing our findings from our own consoles and bugs that we incourter to see if we have the same issues.
 
 ## Methods and Constraints
 
 ### Test Methodology
-
-Describe testing strategy/types of testing or any other methodology
+Look how well the character reacts to the environment and seeing if the game has bugs with how it goes with enemies, weapons and characters 
 
 ### Extent of Testing
-
-Full or partial testing and explanation
+Seeing all the three consoles and comparing notes how the game plays with the story and multiplayer mode.
 
 ### Constraints
 
-Describe any test condition constraints such as interfaces or data
+Testing the actions of the character and see if it slows down the loading process, looking at areas that haven’t been fully updated. 
